@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Paloma-Agile/static/css/main.4a19c5c4.css",
+    "main.js": "/Paloma-Agile/static/js/main.07696f7b.js",
+    "static/media/backgroundImage.jpg": "/Paloma-Agile/static/media/backgroundImage.0c93cf0954030a016410.jpg",
+    "static/media/PalomaLogo.svg": "/Paloma-Agile/static/media/PalomaLogo.3e46894bb6732ee0991d5b494a9c9c94.svg",
+    "index.html": "/Paloma-Agile/index.html",
+    "main.4a19c5c4.css.map": "/Paloma-Agile/static/css/main.4a19c5c4.css.map",
+    "main.07696f7b.js.map": "/Paloma-Agile/static/js/main.07696f7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a19c5c4.css",
+    "static/js/main.07696f7b.js"
+  ]
+}
